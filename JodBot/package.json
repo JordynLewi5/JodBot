@@ -1,0 +1,24 @@
+{
+  "name": "discordbot2",
+  "version": "1.0.0",
+  "description": "JodBot 2.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jod",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord-slash-commands-client": "^1.1.1",
+    "discord.js": "^12.5.1",
+    "google-spreadsheet": "^3.1.15",
+    "googleapis": "^67.0.0",
+    "mongoose": "^5.11.6",
+    "network-speed": "^2.1.0",
+    "node-localstorage": "^2.1.6",
+    "nodejs": "0.0.0",
+    "pm2": "^4.5.1",
+    "top.gg": "^2.3.2"
+  }
+}
